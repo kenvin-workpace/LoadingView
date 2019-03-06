@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_1">#3399FF</color>
+    <color name="color_2">#ed6d48</color>
+    <color name="color_3">#BA55D3</color>
+    <color name="color_4">#A52A2A</color>
+    <color name="color_5">#2E8B57</color>
+    <color name="color_6">#696969</color>
+
+    <string-array name="circle_colors">
+        <item>@color/color_1</item>
+        <item>@color/color_2</item>
+        <item>@color/color_3</item>
+        <item>@color/color_4</item>
+        <item>@color/color_5</item>
+        <item>@color/color_6</item>
+    </string-array>
+</resources>
